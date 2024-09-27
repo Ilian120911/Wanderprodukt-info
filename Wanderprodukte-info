@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mein Shop</title>
-    <style>
+    <styletype=text/css>
+a:link {
+      text-decoration:none;
+}
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
