@@ -131,17 +131,40 @@
 
             </div>
             <div class="product">
-                <h3>Produkt 2</h3>
-                <p>Beschreibung von Produkt 2.</p>
-                <p>Preis: 29,99 €</p>
-                <button>In den Warenkorb</button>
-            </div>
+                <h3>Justcamp Lake 6 Campingzelt, Familienzelt für 6 Personen</h3>
+                <p>Info zu diesem Artikel
+PLATZ FÜR ALLE: Riesiges Familienzelt für 6 Personen, mit Stehhöhe & 2 gegenüberliegenden Schlafkabinen (Vis-a-Vis)
+GUTE LÜFTUNG: Lüftungsöffnungen und mit Moskitonetzen versehene Fensterflächen sorgen für ein angenehmes Klima im Zelt
+WASSERFEST: Stabiles, wasserdichtes Campingzelt mit Wassersäule von 3.000 mm / getapte Nähte / fest eingenähter Boden
+AUF- & ABBAU: Einfacher Auf- und Abbau mit vormontierten Abspannleinen, sowie einfach einzuhängenden Schlafkabinen
+ALLES DABEI: Tragbares 6-Mann-Zelt inkl. Packtasche, robusten Heringen, Aufstellstangen, Abspannleinen & Reparatur-Set</p>
+               
+ <p>249,00€</p>
+                
+<button onclick="window.open('https://www.amazon.de/JUSTCAMP-Lake-6-Familienzelt-grau/dp/B07B4ZR8MK/ref=sr_1_2_sspa?crid=12NTXAUG7QA8G&dib=eyJ2IjoiMSJ9.-Y-j7VJcVs4F4WHU4z9fVdIUXQoja3RWcwkUWjf-U90qeijcOASWBC50dSm39opzL3OjbOoNHLLhHN5XtwEbfIut2KNLDz7L1_Nqp5BS4pht-zU1Q-HcvhSIWbqUyzZ4saDod3IoqS64KOl7emyf6wgMZHtbvQ4OGeTmtYThbRbrfwJzsgP8e-8bjYANaL6uPVbE5MnvTJg1CnMhtBjZGFLT6lXk38yNDSAEiNJRXZp_6yLNM6IMhyb5JVL-6TBpTpbRAixFVKY5ncnaXdPPCH0acZCaCaJGP3VZpqjcPnw.fcWbb8inpfExz8hLF02CvPOHbJ4qhnLiTRk2LnD5SJk&dib_tag=se&keywords=zelt%2B6%2Bpersonen&qid=1728634257&sprefix=zelte%2B%2Caps%2C79&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1');"> Zur Website
+</button>
+
+   
+  </div>
             <div class="product">
-                <h3>Produkt 3</h3>
-                <p>Beschreibung von Produkt 3.</p>
-                <p>Preis: 39,99 €</p>
-                <button>In den Warenkorb</button>
-            </div>
+                <h3>CampFeuer Zelt Super für 4 Personen</h3>
+                <p>Info zu diesem Artikel
+PLATZ FÜR DIE GANZE FAMILIE | Die geräumige Schlafkabine mit großem Vorraum ist ideal für einen rundum entspannten Outdoor-Urlaub. Egal, ob lustiger Hike mit Freunden, toller Familienurlaub oder spannende Expedition, unser Zelt bietet Platz für Jedermann!
+<br>
+ATMUNGSAKTIVE AUSSTATTUNG | Die richtige Belüftung vor allem in der Nacht ist für einen erholsamen Schlaf und unsere Gesundheit unverzichtbar. Daher verfügt unsere Schlafkabine über zwei große Eingänge und besteht aus atmungsaktivem Gewebe und Moskitonetzen. </br>
+
+FÜR JEDES WETTER GERÜSTET | Wer keine nassen Füße haben möchte, sollte bei seiner Zeltwahl vor allem auf eine hohe Wasserdichtigkeit achten! Mit versiegelten Nähten und einer Wassersäule von 3000 mm hält dieses Zelt sogar längeren Wandertouren im Gebirge stand.
+PRAKTISCH | Im großen Vorraum haben Sie genügend Platz für Campingküche und Campingzubehör. Durch die Bodenplane zum Auslegen bleiben Ihre abgestellten Sachen trocken und geschützt.
+KOMPAKTES CAMPINGZELT | Wer campen will hat nicht immer Platz für viel Gepäck, das verstehen wir, und genau daran haben wir auch beim Produktdesign gedacht. Unser Zelt misst im Packmaß lediglich 64 x 19 cm und wiegt handliche 7,9 Kilogramm.
+</p>
+                <p>149,95€</p>
+              
+
+
+<button onclick="window.open(' https://www.amazon.de/CampFeuer-Tunnelzelt-Familienzelt-Wassers%C3%A4ule-schwarz/dp/B00TFEU7MS/ref=sr_1_12_sspa?crid=1GW8B5M74SBZF&keywords=zelt%2Bf%C3%BCr%2B3-4%2Bpersonen&qid=1728635186&sprefix=zelt%2Bf%C3%BCr%2B3-4%2B%2Caps%2C82&sr=1-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1');"> Zur Website
+</button>
+          
+  </div>
         </section>
 
         <section id="about">
@@ -156,4 +179,3 @@
     </footer>
 </body>
 </html>
-
