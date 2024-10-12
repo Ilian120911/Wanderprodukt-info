@@ -117,9 +117,12 @@ a:link {
 <a href="Schlafsäcke.html">Schlafsäcke</a> 
 
  <img src="https://img.icons8.com/?size=100&id=9880&format=png&color=000000" width="50" height="60" alt="Paris" align="center">
+<br>
+<a href="Wanderrucksack.html.txt">Wanderrucksack</a>
+
+
 </h2>
 
-<a href="wanderrucksack.html">Wanderrucksack</a>
             
                    </section>
 
@@ -148,5 +151,3 @@ a:link {
     </footer>
 </body>
 </html>
-
-
