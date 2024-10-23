@@ -111,14 +111,14 @@ a:link {
         <section id="products">
         
          <h2>Produkte: <br>
- <a href="zelt.html">Zelte</a> 
+ <a href="test.html">Zelte</a> 
             <img src="https://img.icons8.com/?size=100&id=9899&format=png&color=000000" width="50" height="60" alt="Paris" align="center">
 <br>
-<a href="schlafsäcke.html">Schlafsäcke</a> 
+<a href="Schlafsäcke.html">Schlafsäcke</a> 
 
  <img src="https://img.icons8.com/?size=100&id=9880&format=png&color=000000" width="50" height="60" alt="Paris" align="center">
 <br>
-<a href="wanderrucksack.html">Wanderrucksack</a>
+<a href="Wanderrucksack.html">Wanderrucksack</a>
 <img src="https://img.icons8.com/?size=100&id=10539&format=png&color=000000" width="50" height="60" alt="Paris" align="center">
 <br>
 
@@ -152,3 +152,4 @@ a:link {
     </footer>
 </body>
 </html>
+
