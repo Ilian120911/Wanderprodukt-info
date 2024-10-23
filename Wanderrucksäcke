@@ -1,1 +1,146 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Shop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+        }
+
+        .product {
+            border: 1px solid #ccc;
+            margin: 20px 0;
+            padding: 40px;
+            border-radius: 8px;
+           
+        }
+
+        .product h3 {
+            margin-top: 0;
+        }
+
+        button {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #218838;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen im Wandershop</h1>
+        <nav>
+            <ul>
+                <li><a href="Index.html">Startseite</a></li>
+                <li><a href="#products">Produkte</a></li>
+                <li><a href="#about">Über uns</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Wanderrucksäcke</h2>
+            <p>Hier findest du Wanderrucksäcke zum Wandern.</p>
+        </section>
+
+        <section id="products">
+        
+         <h2>Produkte
+            <img src="https://img.icons8.com/?size=100&id=10539&format=png&color=000000" width="50" height="60" alt="Paris" align="center"></h2>
+            
+            
+            <div class="product">
+               
+<h3>Amazon Basics - Wanderrucksack mit Innengestell</h3>
+                <p>Info zu diesem Artikel
+Rucksack mit Innengestell und einer Kapazität von 65 L (60 L + 5-l-Erweiterungsmanschette); aus strapazierfähigem Polyester; ideal zum Wandern und Campen
+Zahlreiche Aufbewahrungstaschen und Fächer; großes Schlafsackfach; verstellbare Kompressionsriemen
+Verstellbare Riemen und gepolsterte Schultergurte für eine bequeme Passform; offenzelliger Lendenwirbelpolster aus Schaumstoff und geformte Kanäle zur Unterstützung und Belüftung des unteren Rückens
+Wasserabweisende Außenbeschichtung und integrierter wasserabweisender Regenschutz für leichten Regen; wasserdichter Überwurf für stärkeren Regen; verschiedene Farben zur Auswahl
+Abmessungen: 76,2 cm lang; mit einjähriger, eingeschränkter Garantie durch Amazon Basics</p>
+
+<p> Preis: 36,99€
+<br>UVP: 39,99 €</p>
+
+<button onclick="window.open('https://www.amazon.de/AmazonBasics-Wanderrucksack-Innengestell-Regenschutz-Gr%C3%BCn/dp/B06Y5KV2SY/ref=sr_1_1_ffob_sspa?crid=X65SX428XPN6&dib=eyJ2IjoiMSJ9.kBz5nxMAHVfpwxtcQXgSQEGXRSBw74K7KSAezTU2W7XafQYctnRoo4m3NUaIEJ7oNTV5BTMTyLOgYnRreM17OPt_V0jPwcY6VBr6-MnbrIzz9S6p53fLZvgMhLHIq6UT0CX7lgID0l7FyNjALFTR47g4TGhZMnIKJzHXtmORjvgB85AUgGvAiYWwENIe-k5seARVTVTX-SKlmaknTrobayiZWb3UU5ryUQVhPhnbghiiF3svhboIbQJuzCvWOnFEKjBm-BRB0kL-o2NdHxCYGsWD0kVJ8royaQp6iLjXDEg.m-fVXq9PVbOwtLD-r3Sh9TnDwoaJyGR0dP_gB0nc4Fg&dib_tag=se&keywords=wanderrucksack&qid=1729240055&sprefix=wanderr%2Caps%2C90&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1');"> Zur Website
+</button> <br> </br>
+
+     <h3>Weitere Produkte kommen</h3>       
+        </section>
+
+        <section id="about">
+            <h2>Über uns</h2>
+            <p>Wir sind ein kleiner Online-Shop, der die besten Produkte für dich auswählt.</p>
+        </section>
+
+
+          </main>
+
+    <footer>
+        <p>&copy; 2024 Mein Shop. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
 
